@@ -251,7 +251,6 @@ a {
   margin: 3px;
 }
 #container .left-col {
-  background: url("../img/bg.jpg") #515457;
   width: 300px;
   position: fixed;
   opacity: 1;
@@ -5096,15 +5095,8 @@ pre .link_url {
   }
 }
 body {
-  background: url("../img/p1543.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
   background-attachment: fixed;
   color: #000;
-}
-#container .left-col {
-  background: none !important;
 }
 .article-title {
   color: #000;

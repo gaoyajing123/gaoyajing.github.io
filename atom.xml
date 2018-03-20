@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gaoyajing123.github.io/"/>
-  <updated>2018-03-09T14:27:53.476Z</updated>
+  <updated>2018-03-19T15:18:06.134Z</updated>
   <id>https://gaoyajing123.github.io/</id>
   
   <author>
@@ -17,19 +17,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://gaoyajing123.github.io/2018/03/09/hello-world/"/>
-    <id>https://gaoyajing123.github.io/2018/03/09/hello-world/</id>
-    <published>2018-03-09T14:27:53.476Z</published>
-    <updated>2018-03-09T14:27:53.476Z</updated>
+    <title></title>
+    <link href="https://gaoyajing123.github.io/2018/03/15/small-life/"/>
+    <id>https://gaoyajing123.github.io/2018/03/15/small-life/</id>
+    <published>2018-03-15T15:25:11.364Z</published>
+    <updated>2018-03-19T15:18:06.134Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<html><head></head><body><hr><h2 id="&#x751F;&#x6D3B;&#x7684;&#x70B9;&#x6EF4;"><a href="#&#x751F;&#x6D3B;&#x7684;&#x70B9;&#x6EF4;" class="headerlink" title=" &#x751F;&#x6D3B;&#x7684;&#x70B9;&#x6EF4;"></a> &#x751F;&#x6D3B;&#x7684;&#x70B9;&#x6EF4;</h2><h4 id="gt-&#x53C8;&#xFF0C;&#x53CC;&#xFF0C;&#x53D2;&#xFF0C;&#x53D5;&#x5403;&#x6491;&#x4E86;&#xFF0C;&#x5403;&#x7684;&#x767D;&#x767D;&#x80D6;&#x80D6;&#x7684;&#x3002;&#x6211;&#x505A;&#x996D;&#xFF0C;&#x4F60;&#x7092;&#x83DC;&#xFF0C;&#x4F60;&#x5237;&#x7897;&#xFF0C;&#x4F60;&#x2026;&#x2026;-emsp-emsp-&#x2014;2017-09-14-gt-&#x6000;&#x63E3;&#x7740;&#x4F60;&#x6211;&#xFF0C;&#x8FDC;&#x8D70;&#x9AD8;&#x98DE;-emsp-emsp-&#x2014;2017-08-18-gt-&#x51E4;&#x51F0;&#x5CAD;&#xFF1F;&#x9999;&#x5C71;&#xFF1F;798&#xFF1F;-No-No-No-&#xFF0C;&#x6211;&#x7231;&#x5317;&#x4EAC;&#x5929;&#x5B89;&#x95E8;&#xFF0C;&#x5929;&#x5B89;&#x95E8;&#x4E0A;&#x592A;&#x9633;&#x5347;-emsp-emsp-&#x2014;2017-08-18-gt-&#x5929;&#x592A;&#x70ED;&#x4E86;&#xFF0C;&#x6454;&#x6B8B;&#x4E86;-emsp-emsp-&#x2014;2017-07-16-gt-&#x60C5;&#x4E0D;&#x77E5;&#x6240;&#x8D77;&#xFF0C;&#x4E00;&#x5F80;&#x800C;&#x751F;&#xFF0C;&#x81F4;&#x9633;&#x5149;&#x5C11;&#x5E74;-emsp-emsp-&#x2014;2017-06-24-gt-&#x5FC3;&#x82E5;&#x9633;&#x5149;-&#x4F55;&#x60E7;&#x5FE7;&#x4F24;-&#xFF0C;&#x81F4;&#x9633;&#x5149;&#x5C11;&#x5E74;-emsp-emsp-&#x2014;2017-04-30"><a href="#gt-&#x53C8;&#xFF0C;&#x53CC;&#xFF0C;&#x53D2;&#xFF0C;&#x53D5;&#x5403;&#x6491;&#x4E86;&#xFF0C;&#x5403;&#x7684;&#x767D;&#x767D;&#x80D6;&#x80D6;&#x7684;&#x3002;&#x6211;&#x505A;&#x996D;&#xFF0C;&#x4F60;&#x7092;&#x83DC;&#xFF0C;&#x4F60;&#x5237;&#x7897;&#xFF0C;&#x4F60;&#x2026;&#x2026;-emsp-emsp-&#x2014;2017-09-14-gt-&#x6000;&#x63E3;&#x7740;&#x4F60;&#x6211;&#xFF0C;&#x8FDC;&#x8D70;&#x9AD8;&#x98DE;-emsp-emsp-&#x2014;2017-08-18-gt-&#x51E4;&#x51F0;&#x5CAD;&#xFF1F;&#x9999;&#x5C71;&#xFF1F;798&#xFF1F;-No-No-No-&#xFF0C;&#x6211;&#x7231;&#x5317;&#x4EAC;&#x5929;&#x5B89;&#x95E8;&#xFF0C;&#x5929;&#x5B89;&#x95E8;&#x4E0A;&#x592A;&#x9633;&#x5347;-emsp-emsp-&#x2014;2017-08-18-gt-&#x5929;&#x592A;&#x70ED;&#x4E86;&#xFF0C;&#x6454;&#x6B8B;&#x4E86;-emsp-emsp-&#x2014;2017-07-16-gt-&#x60C5;&#x4E0D;&#x77E5;&#x6240;&#x8D77;&#xFF0C;&#x4E00;&#x5F80;&#x800C;&#x751F;&#xFF0C;&#x81F4;&#x9633;&#x5149;&#x5C11;&#x5E74;-emsp-emsp-&#x2014;2017-06-24-gt-&#x5FC3;&#x82E5;&#x9633;&#x5149;-&#x4F55;&#x60E7;&#x5FE7;&#x4F24;-&#xFF0C;&#x81F4;&#x9633;&#x5149;&#x5C11;&#x5E74;-emsp-emsp-&#x2014;2017-04-30" class="headerlink" title="&gt; &#x53C8;&#xFF0C;&#x53CC;&#xFF0C;&#x53D2;&#xFF0C;&#x53D5;&#x5403;&#x6491;&#x4E86;&#xFF0C;&#x5403;&#x7684;&#x767D;&#x767D;&#x80D6;&#x80D6;&#x7684;&#x3002;&#x6211;&#x505A;&#x996D;&#xFF0C;&#x4F60;&#x7092;&#x83DC;&#xFF0C;&#x4F60;&#x5237;&#x7897;&#xFF0C;&#x4F60;&#x2026;&#x2026;   &#x2003;&#x2003;  &#x2014;2017.09.14  &gt; &#x6000;&#x63E3;&#x7740;&#x4F60;&#x6211;&#xFF0C;&#x8FDC;&#x8D70;&#x9AD8;&#x98DE;   &#x2003;&#x2003;  &#x2014;2017.08.18  &gt; &#x51E4;&#x51F0;&#x5CAD;&#xFF1F;&#x9999;&#x5C71;&#xFF1F;798&#xFF1F; No No No &#xFF0C;&#x6211;&#x7231;&#x5317;&#x4EAC;&#x5929;&#x5B89;&#x95E8;&#xFF0C;&#x5929;&#x5B89;&#x95E8;&#x4E0A;&#x592A;&#x9633;&#x5347;   &#x2003;&#x2003;  &#x2014;2017.08.18   &gt; &#x5929;&#x592A;&#x70ED;&#x4E86;&#xFF0C;&#x6454;&#x6B8B;&#x4E86;   &#x2003;&#x2003;  &#x2014;2017.07.16   &gt; &#x60C5;&#x4E0D;&#x77E5;&#x6240;&#x8D77;&#xFF0C;&#x4E00;&#x5F80;&#x800C;&#x751F;&#xFF0C;&#x81F4;&#x9633;&#x5149;&#x5C11;&#x5E74;   &#x2003;&#x2003;  &#x2014;2017.06.24   &gt; &#x5FC3;&#x82E5;&#x9633;&#x5149; &#x4F55;&#x60E7;&#x5FE7;&#x4F24; &#xFF0C;&#x81F4;&#x9633;&#x5149;&#x5C11;&#x5E74; &#x2003;&#x2003;  &#x2014;2017.04.30 "></a>&gt; &#x53C8;&#xFF0C;&#x53CC;&#xFF0C;&#x53D2;&#xFF0C;&#x53D5;&#x5403;&#x6491;&#x4E86;&#xFF0C;&#x5403;&#x7684;&#x767D;&#x767D;&#x80D6;&#x80D6;&#x7684;&#x3002;&#x6211;&#x505A;&#x996D;&#xFF0C;&#x4F60;&#x7092;&#x83DC;&#xFF0C;&#x4F60;&#x5237;&#x7897;&#xFF0C;&#x4F60;&#x2026;&#x2026;   &#x2003;&#x2003; <em> &#x2014;2017.09.14 </em><br> &gt; &#x6000;&#x63E3;&#x7740;&#x4F60;&#x6211;&#xFF0C;&#x8FDC;&#x8D70;&#x9AD8;&#x98DE;   &#x2003;&#x2003; <em> &#x2014;2017.08.18 </em><br> &gt; &#x51E4;&#x51F0;&#x5CAD;&#xFF1F;&#x9999;&#x5C71;&#xFF1F;798&#xFF1F; No No No &#xFF0C;&#x6211;&#x7231;&#x5317;&#x4EAC;&#x5929;&#x5B89;&#x95E8;&#xFF0C;&#x5929;&#x5B89;&#x95E8;&#x4E0A;&#x592A;&#x9633;&#x5347;   &#x2003;&#x2003; <em> &#x2014;2017.08.18 </em><br>  &gt; &#x5929;&#x592A;&#x70ED;&#x4E86;&#xFF0C;&#x6454;&#x6B8B;&#x4E86;   &#x2003;&#x2003; <em> &#x2014;2017.07.16 </em><br>  &gt; &#x60C5;&#x4E0D;&#x77E5;&#x6240;&#x8D77;&#xFF0C;&#x4E00;&#x5F80;&#x800C;&#x751F;&#xFF0C;&#x81F4;&#x9633;&#x5149;&#x5C11;&#x5E74;   &#x2003;&#x2003; <em> &#x2014;2017.06.24 </em><br>  &gt; &#x5FC3;&#x82E5;&#x9633;&#x5149; &#x4F55;&#x60E7;&#x5FE7;&#x4F24; &#xFF0C;&#x81F4;&#x9633;&#x5149;&#x5C11;&#x5E74; &#x2003;&#x2003; <em> &#x2014;2017.04.30 </em><br></h4><script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({"model":"wanko","bottom":-30});</script></body></html>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;hr&gt;
+&lt;h2 id=&quot;&amp;#x751F;&amp;#x6D3B;&amp;#x7684;&amp;#x70B9;&amp;#x6EF4;&quot;&gt;&lt;a href=&quot;#&amp;#x751F;&amp;#x6D3B;&amp;#x7684;&amp;#x70B9;&amp;#x6EF4;&quot; class=&quot;h
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://gaoyajing123.github.io/2018/03/15/hello-world/"/>
+    <id>https://gaoyajing123.github.io/2018/03/15/hello-world/</id>
+    <published>2018-03-15T14:09:17.940Z</published>
+    <updated>2018-03-15T14:09:17.965Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><hr><h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h2><h3 id="&#x4F60;&#x597D;&#xFF0C;&#x4E16;&#x754C;&#xFF01;"><a href="#&#x4F60;&#x597D;&#xFF0C;&#x4E16;&#x754C;&#xFF01;" class="headerlink" title="&#x4F60;&#x597D;&#xFF0C;&#x4E16;&#x754C;&#xFF01;"></a>&#x4F60;&#x597D;&#xFF0C;&#x4E16;&#x754C;&#xFF01;</h3><script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({"model":"wanko","bottom":-30});</script></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;hr&gt;
+&lt;h2 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h2&gt;&lt;h3 id=
       
     
     </summary>

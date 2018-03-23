@@ -10,8 +10,8 @@ function(e, t, a) {
         requestAnimationFrame(r)
     }
     function o() {
-        var t = "function" == typeof e.ondblclick && e.ondblclick;
-        e.ondblclick = function(e) {
+        var t = "function" == typeof e.onclick && e.onclick;
+        e.onclick = function(e) {
             t && t(),
             i(e)
         }

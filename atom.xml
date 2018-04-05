@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gaoyajing123.github.io/"/>
-  <updated>2018-04-05T13:11:31.635Z</updated>
+  <updated>2018-03-15T14:09:17.965Z</updated>
   <id>https://gaoyajing123.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://gaoyajing123.github.io/2018/04/05/gaolegao/"/>
+    <id>https://gaoyajing123.github.io/2018/04/05/gaolegao/</id>
+    <published>2018-04-05T13:13:37.152Z</published>
+    <updated>2018-03-15T14:09:17.965Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><hr><h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h2><h3 id="&#x4F60;&#x597D;&#xFF0C;&#x4E16;&#x754C;&#xFF01;"><a href="#&#x4F60;&#x597D;&#xFF0C;&#x4E16;&#x754C;&#xFF01;" class="headerlink" title="&#x4F60;&#x597D;&#xFF0C;&#x4E16;&#x754C;&#xFF01;"></a>&#x4F60;&#x597D;&#xFF0C;&#x4E16;&#x754C;&#xFF01;</h3><script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({});</script></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;hr&gt;
+&lt;h2 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World&quot;&gt;&lt;/a&gt;Hello World&lt;/h2&gt;&lt;h3 id=
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>生活的点滴</title>
